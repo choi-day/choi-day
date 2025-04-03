@@ -20,9 +20,7 @@
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
-
-![Programmers Badge](https://raw.githubusercontent.com/{choi-day}/Programmers_Badge_Generator/main/result/result.svg)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=prettiana)](https://solved.ac/prettiana/)
 
 --
 
