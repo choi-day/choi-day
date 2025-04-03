@@ -16,13 +16,14 @@
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choi-day&show_icons=true&theme=dracula)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=choi-day&theme=dracula)
 
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=prettiana)](https://solved.ac/prettiana/)
 
---
+---
 
 ### 🔥 Featured Projects
 - 📱 [Fortikey](https://github.com/SSS-PROJECT-TEAM-9-GDG/FE) - 모바일 앱 프로젝트
