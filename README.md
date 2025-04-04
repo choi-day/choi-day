@@ -2,9 +2,13 @@
 💻 Mobile Developer | Interested in Flutter
 🚀 Passionate about Software Engineering & DevOps
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFBDF9&height=80&section=header)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/97063053-b048-449f-ae43-6ac751e7ef67" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=FFBDF9&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Dayeon's+GitHub!)](https://git.io/typing-svg)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBDF9&height=80&section=header)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=FFBDF9&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Dayeon's+GitHub!)](https://git.io/typing-svg) -->
 
 ---
 
