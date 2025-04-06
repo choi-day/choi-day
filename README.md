@@ -3,7 +3,7 @@
 🚀 Passionate about Software Engineering & DevOps
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/97063053-b048-449f-ae43-6ac751e7ef67" />
+  <img src="https://github.com/user-attachments/assets/63d72f1c-aeea-4b12-8903-1318d495b798" />
 </div>
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBDF9&height=80&section=header)
